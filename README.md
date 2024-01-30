@@ -2,7 +2,7 @@
 
 #### Live Preview
 
-You can access the live preview of the project by clicking [this link](https://front-end-study-case-2.vercel.app/).
+You can access the live preview of the project by clicking [this link](https://front-end-case-study-2.vercel.app/).
 
 #### Description
 
